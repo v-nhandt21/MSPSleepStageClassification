@@ -1,0 +1,4 @@
+DATA/*
+prepare_datasets/edf_20_npz/*
+saved/*
+**/__pycache__/
